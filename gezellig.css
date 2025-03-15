@@ -1,0 +1,21 @@
+h1 { position: relative; font-family: 'EB Garamond'; font-style: normal; color: #B36826; background: linear-gradient(90deg, #5C6736 0%, transparent 33%, transparent 66%, #5C6736 100%);}  
+
+.progress {     background: #5C6736; }
+
+nav a { 
+  text-decoration: none; 
+  color: #B36826!important; 
+}
+
+nav a:hover { 
+  color: #5C6736!important;
+}
+
+table a { 
+  text-decoration: none; 
+  color: #B36826!important; 
+}
+
+table a:hover { 
+  color: #5C6736!important;
+}
